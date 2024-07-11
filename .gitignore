@@ -1,4 +1,8 @@
 .env
 config
 *.ipynb
+<<<<<<< Updated upstream
 *.csv
+=======
+*.csv
+>>>>>>> Stashed changes
